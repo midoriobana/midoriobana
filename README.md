@@ -2,7 +2,7 @@
 
 Eu sou desenvolvedora frontend apaixonada por tecnologia e educação.
 
-<a href="https://www.likedin.com/in/midoriobana"><img src="https://img.shields.io/badge/-Linkedin-556DB3?style=flat-square&logo=linkedin"/></a>
+<a href="[perfil-linkedin](https://www.linkedin.com/in/midoriobana/)"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-ingridmcobana@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
 
 ## 🧰 Stack

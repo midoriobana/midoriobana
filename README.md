@@ -1,12 +1,18 @@
 # oi, eu sou a Ingrid <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px">
 
-Eu sou desenvolvedora frontend apaixonada por tecnologia e educação.
+👩‍💻 eu sou desenvolvedora frontend <br>
+📍sou de Belo Horizonte - MG <br>
+🎲 gosto de jogos, café, animes e vídeos de coisas fofinhas <br>
+📚 tenho interesse por tecnologia, novas stacks e educação <br>
+
+
+## 💬 onde me encontrar:
 
 <a href="https://www.linkedin.com/in/midoriobana/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ingridmidori@live.com?"><img src="https://img.shields.io/badge/-ingridmidori@live.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 
 
-## 🧰 Frontend:
+## 🧰 frontend:
 
 Aqui vão algumas coisas que eu aprendi ao longo da minha jornada:
 
@@ -32,9 +38,9 @@ Aqui vão algumas coisas que eu aprendi ao longo da minha jornada:
 
 
 
-## 📊 Github Stats
+## 📊 Status Github:
 
 <p align="center">
-  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=midoriobana&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriobana&layout=compact&theme=tokyonight" />
+  <img  width="53%" src="https://github-readme-stats.vercel.app/api?username=midoriobana&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriobana&layout=compact&theme=tokyonight" />
  </p>
 

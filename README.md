@@ -35,6 +35,6 @@ Aqui vão algumas coisas que eu aprendi ao longo da minha jornada:
 ## 📊 Github Stats
 
 <p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=midoriobana&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriobana&layout=compact&theme=tokyonight" />
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=midoriobana&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriobana&layout=compact&theme=tokyonight" />
  </p>
 

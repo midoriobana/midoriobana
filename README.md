@@ -6,7 +6,7 @@ Eu sou desenvolvedora frontend apaixonada por tecnologia e educação.
 <a href="mailto:ingridmidori@live.com?"><img src="https://img.shields.io/badge/-ingridmidori@live.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 
 
-## 🧰 Stack
+## 🧰 Frontend:
 
 Aqui vão algumas coisas que eu aprendi ao longo da minha jornada:
 
